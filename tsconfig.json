@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {                                   /* Set the JavaScript language version for emitted JavaScript and include compatible library declarations. */
+    "lib": ["ESNext"],
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "target": "ESNext",
+    "sourceMap": false,
+    "esModuleInterop": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "allowSyntheticDefaultImports": true,
+    "skipLibCheck": true,
+    "skipDefaultLibCheck": true,
+    "resolveJsonModule": true,
+    "importHelpers": true
+  },
+  "include": ["src", "enviroment.d.ts"],
+  "exclude": ["node_modules", "**/*.spec.ts"]
+}
