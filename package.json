@@ -11,6 +11,6 @@
     "watch": "tsc -w"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "Shiba Development",
+  "license": "MIT"
 }
